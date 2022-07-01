@@ -8,7 +8,7 @@ require (
 	github.com/knadh/koanf v1.4.0
 	github.com/mcuadros/go-version v0.0.0-20190830083331-035f6764e8d2
 	github.com/orcaman/concurrent-map v1.0.0
-	github.com/prometheus/client_golang v1.12.1
+	github.com/prometheus/client_golang v1.12.2
 	github.com/sirupsen/logrus v1.8.1
 	helm.sh/helm/v3 v3.8.0
 	k8s.io/apimachinery v0.23.3
