@@ -11,7 +11,7 @@ require (
 	github.com/prometheus/client_golang v1.12.2
 	github.com/sirupsen/logrus v1.8.1
 	helm.sh/helm/v3 v3.8.0
-	k8s.io/apimachinery v0.24.2
+	k8s.io/apimachinery v0.24.4
 	k8s.io/client-go v0.24.2
 )
 
